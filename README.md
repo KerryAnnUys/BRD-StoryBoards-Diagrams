@@ -1,1 +1,6 @@
 # Business-Requirements-Document
+
+We were tasked with creating a comprehensive business requirements document to provide a clear understanding of the project's goals, needs, and scope. This document is essential for developing an efficient Athlete Management System (AMS) for the 2024 Olympic Rowing Committee. The AMS aims to streamline athlete management by minimizing errors and preventing issues that may arise throughout its use. It must be designed with accuracy and reliability at its core, ensuring that all personal information is securely stored and easily accessible to all relevant stakeholders. The system is also required to facilitate seamless communication between athletes, coaches, and other involved parties, incorporating real-time updates, automatic notifications, and email alerts to keep everyone informed and connected. 
+
+The document highlights the functional and non-functional requirements, as well as additional features like FURPS+ (Functionality, Usability, Reliability, Performance, and Supportability), to ensure that the AMS meets all expectations and operates efficiently. Diagrams such as activity diagrams, use case diagrams, class diagrams, and state machine diagrams have been included to illustrate the system's current (as-is) and future (to-be) states, providing a visual representation of how the system will function and evolve.
+
